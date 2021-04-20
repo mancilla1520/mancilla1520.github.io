@@ -1,2 +1,2 @@
-*.jpg
-!/imagenes/miguel.jpg
+#*.jpg
+#!/imagenes/miguel.jpg
